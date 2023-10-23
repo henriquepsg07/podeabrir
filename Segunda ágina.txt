@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Segunda Página</title>
+</head>
+<body>
+    <img src="https://drive.google.com/uc?id=17K79awxaoGJ6dITUHTSMwRitrG8LCyNv" alt="Imagem de exemplo">
+</body>
+</html>
