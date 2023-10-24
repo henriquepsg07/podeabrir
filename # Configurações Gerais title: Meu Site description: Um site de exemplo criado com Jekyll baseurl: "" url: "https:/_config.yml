@@ -1,0 +1,24 @@
+# Configurações Gerais
+title: Pode Abrir
+description: Um site de exemplo criado com Jekyll
+baseurl: ""
+url: "https://podeabrir.com"
+
+# Configurações do Tema
+theme: jekyll-theme-primer
+
+# Plugins
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+# Configurações do Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Outras Configurações
+future: true
+highlighter: rouge
+permalink: pretty
